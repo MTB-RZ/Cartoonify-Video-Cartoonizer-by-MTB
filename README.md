@@ -1,3 +1,5 @@
+![Cartoonify Pro Banner](banner.png)
+
 # 🎨 Cartoonify Pro - Video Cartoonizer by MTB
 
 This is an offline desktop application that transforms your videos into cartoon-style animations using OpenCV and AI-inspired filters. Choose from styles like **Comic**, **Watercolor**, **AI Anime**, and **Pixar**, then export your cartoonified video in 480p, 720p, or 1080p resolution.
@@ -24,6 +26,26 @@ This is an offline desktop application that transforms your videos into cartoon-
 - CTkMessagebox
 - imageio
 - Pillow
+
+---
+
+## 🛠️ Usage Example
+
+1. **Upload a video**: Click on 'Upload Video' and select your `.mp4` or `.avi` file.
+2. **Choose a style**: Select from Default, Comic, Watercolor, AI Anime, or Pixar.
+3. **Set resolution**: Pick 480p, 720p, or 1080p.
+4. **Adjust cartoon level**: Use the slider to set the desired effect intensity.
+5. **Process and save**: Click on 'Select Output Folder & Start' to begin processing and save the output.
+
+---
+
+## 🧪 Testing
+
+To test the application:
+
+1. Run the script:
+   ```bash
+   python cartoonify_pro_by_mtb.py
 
 ---
 
