@@ -1,4 +1,4 @@
-![Cartoonify Pro Banner](banner.png)
+![Cartoonify Pro Banner](interface.png)
 
 # 🎨 Cartoonify Pro - Video Cartoonizer by MTB
 
